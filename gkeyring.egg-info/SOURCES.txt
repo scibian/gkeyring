@@ -1,0 +1,8 @@
+README
+gkeyring.py
+setup.py
+gkeyring.egg-info/PKG-INFO
+gkeyring.egg-info/SOURCES.txt
+gkeyring.egg-info/dependency_links.txt
+gkeyring.egg-info/entry_points.txt
+gkeyring.egg-info/top_level.txt

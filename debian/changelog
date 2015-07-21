@@ -1,0 +1,23 @@
+gkeyring (0.2.4+c9+1) calibre9; urgency=low
+
+  * Déploiement sur Calibre 9.
+
+ -- Alexis Bezverkhyy <alexis-externe.bezverkhyy@edf.fr>  Tue, 21 Jul 2015 18:28:35 +0200
+
+gkeyring (0.2.4+c8+2) calibre8; urgency=low
+
+  * Déploiement sur Calibre 8.
+
+ -- Alexis Bezverkhyy <alexis-externe.bezverkhyy@edf.fr>  Thu, 11 Dec 2014 17:09:10 +0100
+
+gkeyring (0.2.4+c8+1) calibre8; urgency=low
+
+  * Import dans Calibre 8.
+
+ -- Alexis Bezverkhyy <alexis-externe.bezverkhyy@edf.fr>  Wed, 26 Nov 2014 10:10:15 +0100
+
+gkeyring (0.2.4) precise; urgency=low
+
+  * Initial Release.
+
+ -- Christian Kampka <chris@emerge-life.de>  Thu, 09 Aug 2012 21:43:27 +0200
