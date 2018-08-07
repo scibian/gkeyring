@@ -1,3 +1,9 @@
+gkeyring (0.2.4+s9+1) scibian9; urgency=medium
+
+  * Import in Scibian 9
+
+ -- Martin Di-Rollo <martin.di-rollo@edf.fr>  Tue, 07 Aug 2018 15:00:31 +0200
+
 gkeyring (0.2.4+c9+1) calibre9; urgency=low
 
   * Déploiement sur Calibre 9.
