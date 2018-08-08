@@ -1,3 +1,9 @@
+gkeyring (0.2.4sci9u2) scibian9; urgency=medium
+
+  * Allow the string parameters to have the character ',' in their value
+
+ -- Martin Di-Rollo <martin.di-rollo@edf.fr>  Wed, 08 Aug 2018 12:16:18 +0200
+
 gkeyring (0.2.4sci9u1) scibian9; urgency=medium
 
   * Import in Scibian 9

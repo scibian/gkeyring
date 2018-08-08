@@ -132,6 +132,14 @@ Create a new item in keyring 'login' with name 'foo' and property 'bar'."""
         # parse string params
         try:
             tuples = options.params.split(',')
+            # Allow ',' in the parameter values
+            if len(tuples) != options.params.count('='):
+                tuples = []
+                for elem in options.params.split(','):
+                    if '=' not in elem:
+                        tuples[-1]=tuples[-1]+','+elem
+                    else:
+                        tuples+=[elem,]
             for tupl in tuples:
                 if not tupl:
                     # empty string
